@@ -1,5 +1,5 @@
 # onnx_segment_anything_experiments
-Here's I tried to replace sam predictor with some lighter model (for ex. ResNet 50 which is theory should be overfitted for some images) code contains a lot of exp/trash things, [sorry](https://www.youtube.com/watch?v=fRh_vgS2dFE)
+Here's I tried to replace sam predictor with some lighter model (for ex. ResNet 50 which is theory should be overfitted for images)
 
 probably it's impossible to run sam onnx mask encoder on ios and cpp ._. <br /> 
 https://github.com/facebookresearch/segment-anything/issues/325
@@ -30,3 +30,5 @@ datasets:
 ![Annotation 2023-05-04 181205](https://user-images.githubusercontent.com/36921178/236265572-8d8262ea-e896-4036-8254-466b1d971731.png)
 ![Annotation 2023-05-04 190639](https://user-images.githubusercontent.com/36921178/236265600-89c569cc-56cf-43ea-9454-f069a226cd38.png)
 ![Annotation 2023-05-04 190627](https://user-images.githubusercontent.com/36921178/236265735-86c3c15d-de56-42ef-8715-819ed24f09e2.png)
+
+[sorry](https://www.youtube.com/watch?v=fRh_vgS2dFE)
