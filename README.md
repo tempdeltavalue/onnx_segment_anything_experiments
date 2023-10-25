@@ -1,8 +1,9 @@
 # onnx_segment_anything_experiments
-Here's I tried to replace sam predictor with some lighter model (for ex. ResNet 50)
 
-probably it's impossible to run sam onnx mask encoder on ios and cpp ._. <br /> 
-https://github.com/facebookresearch/segment-anything/issues/325
+
+check this project <br />
+https://github.com/tempdeltavalue/SceneKitTest
+<br />
 
 
 // don't forget this  <br /> 
